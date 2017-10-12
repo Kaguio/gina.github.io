@@ -1,2 +1,3 @@
-# gina.github.io
+Gina Peng
+
 My github pages
